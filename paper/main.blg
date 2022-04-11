@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: acm.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 29 of file references.bib
+ :  
+ :  author = {Branislav Lacko}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in industry_4_0_slide
+Warning--empty journal in lu_shi
+Warning--empty journal in richter_streitferdt
+You've used 11 entries,
+            2253 wiz_defined-function locations,
+            601 strings with 5921 characters,
+and the built_in function-call counts, 3421 in all, are:
+= -- 331
+> -- 161
+< -- 0
++ -- 68
+- -- 56
+* -- 268
+:= -- 572
+add.period$ -- 32
+call.type$ -- 11
+change.case$ -- 59
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 107
+empty$ -- 272
+format.name$ -- 56
+if$ -- 694
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 13
+newline$ -- 57
+num.names$ -- 20
+pop$ -- 64
+preamble$ -- 1
+purify$ -- 50
+quote$ -- 0
+skip$ -- 60
+stack$ -- 0
+substring$ -- 229
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 3
+while$ -- 32
+width$ -- 13
+write$ -- 110
+(There was 1 error message)
