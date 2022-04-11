@@ -1,2 +1,2 @@
 # VRM repository (univeristy project)
-Link: [Seminar paper](https://github.com/htha98/VRM/paper)
+Link: [Seminar paper](https://github.com/htha98/VRM/tree/main/paper)
