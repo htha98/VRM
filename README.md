@@ -1,6 +1,5 @@
 # VRM repository (university project)
-Link: [Seminar paper](https://github.com/htha98/VRM/tree/main/paper)  
-Link: [Homework1](https://github.com/htha98/VRM/tree/main/homework/homework1)  
-Link: [Project1](https://github.com/htha98/VRM/tree/main/project1)  
-Link: [Project2](https://github.com/htha98/VRM/tree/main/project2)
-
+Link: [Seminar paper](https://codeberg.org/htha98/VRM/src/branch/main/paper)  
+Link: [Homework1](https://codeberg.org/htha98/VRM/src/branch/main/homework/homework1)  
+Link: [Project1](https://codeberg.org/htha98/VRM/src/branch/main/project1)  
+Link: [Project2](https://codeberg.org/htha98/VRM/src/branch/main/project2)
