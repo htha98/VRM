@@ -1,5 +1,5 @@
 # VRM repository (university project)
 Link: [Seminar paper](paper)  
-Link: [Homework1](homework1)  
+Link: [Homework1](homework/homework1)  
 Link: [Project1](project1)  
 Link: [Project2](project2)
